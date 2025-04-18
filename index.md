@@ -1,5 +1,5 @@
 @def title = "cloud"
-@def tags = []
+@def tags = [""]
 
 i rulez and u droolz
 

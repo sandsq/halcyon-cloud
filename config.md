@@ -19,7 +19,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "hc"
 website_descr = "hc"
-website_url   = ""
+website_url   = "https://halcyon.cloud/"
 +++
 
 <!--
