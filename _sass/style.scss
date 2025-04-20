@@ -25,3 +25,6 @@
 
 // Adjustments for Franklin.jl
 @import "adjust";
+
+@import "custom";
+// Sass.compile_file("style.scss", "../_css/celeste.min.css"; output_style = Sass.compressed)
